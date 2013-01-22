@@ -1,0 +1,22 @@
+Counters: Slave:0 MasterIn:[17245] FGearOut:0 FGearIn:0 MasterOut:302 
+MAV Errors: 0
+None
+1071: ATTITUDE {usec : 392414222, roll : 0.00136387522798, pitch : 0.0005512208445, yaw : -0.167419686913, rollspeed : 0.0161754339933, pitchspeed : -0.0247768256813, yawspeed : -0.016814539209}
+1071: DCM {omegaIx : -0.0111004086211, omegaIy : 0.0151376482099, omegaIz : 0.0148475691676, accel_weight : 1.0, renorm_val : 0.0, error_rp : 0.190994977951, error_yaw : -0.00707668066025}
+1071: GPS_RAW {usec : 392412287, fix_type : 1, lat : 0.0, lon : 0.0, alt : 0.0, eph : 0.0, epv : 0.0, v : 0.0, hdg : 0.0}
+1: GPS_STATUS {satellites_visible : 0, satellite_prn : , satellite_used : , satellite_elevation : , satellite_azimuth : , satellite_snr : }
+295: HEARTBEAT {type : 2, autopilot : 3, mavlink_version : 2}
+1071: MEMINFO {brkval : 8192, freemem : 4096}
+1071: NAV_CONTROLLER_OUTPUT {nav_roll : 0.0, nav_pitch : 0.0, nav_bearing : 0, target_bearing : 0, wp_dist : 0, alt_error : 0.0, aspd_error : 0.0, xtrack_error : 0.0}
+392: PARAM_VALUE {param_id : MOT_TB_RATIO, param_value : 1.0, param_count : 196, param_index : 195}
+1071: RAW_IMU {usec : 392410521, xacc : -7, yacc : 31, zacc : -1006, xgyro : 16, ygyro : -24, zgyro : -16, xmag : 323, ymag : 56, zmag : -732}
+1071: RC_CHANNELS_RAW {chan1_raw : 1500, chan2_raw : 1500, chan3_raw : 1000, chan4_raw : 1500, chan5_raw : 1800, chan6_raw : 1000, chan7_raw : 1000, chan8_raw : 1800, rssi : 1}
+1071: RC_CHANNELS_SCALED {chan1_scaled : -12, chan2_scaled : 23, chan3_scaled : 0, chan4_scaled : 12, chan5_scaled : 28036, chan6_scaled : 28036, chan7_scaled : 28036, chan8_scaled : 28036, rssi : 1}
+1071: SCALED_PRESSURE {usec : 392410839, press_abs : 1019.11999512, press_diff : 0.0, temperature : 3120}
+1071: SENSOR_OFFSETS {mag_ofs_x : 0, mag_ofs_y : 0, mag_ofs_z : 0, mag_declination : 0.0, raw_press : 101912, raw_temp : 312, gyro_cal_x : 0.00286467466503, gyro_cal_y : 0.00135783851147, gyro_cal_z : 0.00120217318181, accel_cal_x : 0.0, accel_cal_y : 0.0, accel_cal_z : 0.0}
+1071: SERVO_OUTPUT_RAW {servo1_raw : 1100, servo2_raw : 1100, servo3_raw : 1100, servo4_raw : 1100, servo5_raw : 0, servo6_raw : 0, servo7_raw : 0, servo8_raw : 0}
+1071: SIMSTATE {roll : 0.0, pitch : 0.0, yaw : 0.0, xacc : 0.0, yacc : 0.0, zacc : 0.0, xgyro : 0.0, ygyro : 0.0, zgyro : 0.0}
+492: STATUSTEXT {severity : 3, text : GPSLock, }
+1071: SYS_STATUS {mode : 100, nav_mode : 4, status : 3, load : 0, vbat : 10080, battery_remaining : 1000, packet_drop : 0}
+1071: VFR_HUD {airspeed : 0.0, groundspeed : 0.0, heading : 350, throttle : 0, alt : 0.0, climb : 0.0}
+1071: WAYPOINT_CURRENT {seq : 0}
